@@ -11,7 +11,8 @@ package com.booker.chapter2;
  */
 public class Helloworld {
     public static void main(String[] args) {
-        System.out.println("Hellowolrd");
+        System.out.println("Helloworld");
+        System.out.println("BooKER");
     }
     
 }
